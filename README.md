@@ -1,6 +1,6 @@
 # ⚡️💾 Site Performance Snippets
 
-A curated list of snippets to get Web Performance metrics to use in the browser console
+Lijst van snippets om de performance van een website te meten in de console.
 
 ## Core Web Vitals
 
